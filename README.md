@@ -7,6 +7,11 @@
 > Experienced in Desktop development, Web development, Mobile development and Artificial Intelligence & Machine Learning.
 
 
+## Github Stats
+![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=AvGeekGupta&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvGeekGupta&hide=TSQL,Tcl&theme=dracula)
+
+
 ## Technologies & Tools
 ![](https://img.shields.io/badge/C-informational?color=blue)
 ![](https://img.shields.io/badge/C++-informational?color=blue)
@@ -55,11 +60,13 @@
 - **Kendriya Vidyalaya** *PCM*
 
 
-## Github Stats
-![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=AvGeekGupta&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvGeekGupta&hide=TSQL,Tcl&theme=dracula)
-
-
-## Projects
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AvGeekGupta&repo=Emergency_call&theme=dracula)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AvGeekGupta&repo=Gems-Seperator&theme=dracula)
+## Contact Me
+1. [LinkedIn](https://www.linkedin.com/in/avgeekgupta/)
+2. [Twitter](https://twitter.com/AvGeekGupta)
+3. [Facebook](https://www.facebook.com/AvGeekGupta/)
+4. [Instagram](https://www.instagram.com/avgeekgupta/)
+5. [Personel Website](avgeekgupta.github.io/Utkarsh-Gupta/)
+6. [Company Webite](the-semicolons.github.io/The-Semicolons/)
+7. [Company Github](https://github.com/The-Semicolons)
+8. Personel Email : <u8karshgupta@gmail.com>
+9. Company Email : <thesemicolonsteam@gmail.com>
