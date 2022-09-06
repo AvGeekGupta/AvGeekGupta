@@ -1,0 +1,13 @@
+//import css-variables from 'css-variables';
+@import "sassVariables"
+
+.App
+	.light
+		transition: background-color $transition-duration ease, color $transition-duration ease
+		background-color: $light-background
+		color: $light-font
+
+	.dark
+		transition: background-color $transition-duration ease, color $transition-duration ease
+		background-color: $dark-background
+		color: $dark-font
