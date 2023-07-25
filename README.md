@@ -445,7 +445,6 @@ I'm always looking for exciting projects and collaborations. If you're working o
 </footer>
 
 <style>
-@charset "UTF-8";
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
