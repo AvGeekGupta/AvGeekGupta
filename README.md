@@ -164,6 +164,6 @@ I'm always looking for exciting projects and collaborations. If you're working o
 		<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="35"> &nbsp; &nbsp;
 	</a>
     <a href="tel:+918938914511" style="text-decoration: none;">
-		<img src="https://assets.stickpng.com/images/5a452570546ddca7e1fcbc7d.png" height="35">
+		<img src="public/assets/phone.png" height="35">
 	</a>
 </div>
