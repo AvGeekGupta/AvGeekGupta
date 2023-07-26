@@ -1,6 +1,6 @@
 # Hey there! 👋🏽
 
-Welcome to my GitHub profile! I'm Utkarsh Gupta, a passionate AI/ML and Data Science enthusiast with a knack for full-stack web development. I love exploring the realms of technology, solving complex problems, and creating innovative solutions that have a positive impact on the world.
+Welcome to my GitHub profile! I'm Utkarsh Gupta aka AvGeekGupta. AvGeek means an aviation geek, The person who loves airplanes. I am a passionate AI/ML and Data Science enthusiast with a knack for full-stack web development. I love exploring the realms of technology, solving complex problems, and creating innovative solutions that have a positive impact on the world.
 
 # About Me
 
