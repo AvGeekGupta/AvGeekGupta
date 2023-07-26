@@ -60,12 +60,7 @@ Welcome to my GitHub profile! I'm Utkarsh Gupta, a passionate AI/ML and Data Sci
 
 # Featured Projects
 
-<a href="https://github.com/AvGeekGupta/Baymax" target="_blank" style="text-decoration: none;">
-    <h2>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill="#7d8590" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg> 
-        Baymax | Healthcare Chatbot
-    </h2>
-</a>
+## [![img](public/assets/repo.png) Baymax | Healthcare Chatbot ](https://github.com/AvGeekGupta/Baymax)
 
 ![Static Badge](https://img.shields.io/badge/Python-3B71CA?logo=python&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/TensorFlow-14A44D?logo=tensorflow&logoColor=FBFBFB) &nbsp;
@@ -75,12 +70,7 @@ Welcome to my GitHub profile! I'm Utkarsh Gupta, a passionate AI/ML and Data Sci
 
 Baymax is a multilingual medical ecosystem capable of diagnosing diseases remotely. It aims to improve healthcare accessibility in rural and remote parts of India. The chatbot uses AI/ML technologies for efficient disease diagnosis and patient support.
 
-<a href="https://github.com/AvGeekGupta/Project-Saksham-POC" target="_blank" style="text-decoration: none;">
-    <h2>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill="#7d8590" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg> 
-        Saksham | Communication Solution for Disabled
-    </h2>
-</a>
+## [![img](public/assets/repo.png) Saksham | Communication Solution for Disabled ](https://github.com/AvGeekGupta/Project-Saksham-POC)
 
 ![Static Badge](https://img.shields.io/badge/Python-3B71CA?logo=python&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/JavaScript-3B71CA?logo=javascript&logoColor=FBFBFB) &nbsp;
@@ -92,12 +82,7 @@ Baymax is a multilingual medical ecosystem capable of diagnosing diseases remote
 
 Universal communication solution for bridging gaps among blind, deaf, mute & normal populations. App converts sign language, voice, braille & text for seamless interaction between users. Uses computer vision, DNN & wireless hardware for recognition.
 
-<a href="https://github.com/AvGeekGupta/Solar-panel-maintenance-system" target="_blank" style="text-decoration: none;">
-    <h2>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill="#7d8590" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg> 
-        AI-Based Solar Panel Cleaning System
-    </h2>
-</a>
+## [![img](public/assets/repo.png) AI-Based Solar Panel Cleaning System ](https://github.com/AvGeekGupta/Solar-panel-maintenance-system)
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-3B71CA?logo=C%2B%2B&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/Python-3B71CA?logo=python&logoColor=FBFBFB) &nbsp;
@@ -110,12 +95,7 @@ Universal communication solution for bridging gaps among blind, deaf, mute & nor
 
 The AI-Based Solar Panel Cleaning System automates the cleaning processes of solar panel installations using machine learning algorithms. It optimizes performance and reduces maintenance costs, enhancing the efficiency of solar energy generation.
 
-<a href="https://github.com/AvGeekGupta/AnalysisofRubiksCubeSolvingAlgorithm" target="_blank" style="text-decoration: none;">
-    <h2>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill="#7d8590" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg> 
-        Analysis of Rubik's Cube Solving Algorithms
-    </h2>
-</a>
+## [![img](public/assets/repo.png) Analysis of Rubik's Cube Solving Algorithms ](https://github.com/AvGeekGupta/AnalysisofRubiksCubeSolvingAlgorithm)
 
 ![Static Badge](https://img.shields.io/badge/C-3B71CA?logo=C&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-3B71CA?logo=C%2B%2B&logoColor=FBFBFB) &nbsp;
@@ -123,12 +103,7 @@ The AI-Based Solar Panel Cleaning System automates the cleaning processes of sol
 
 Exploring the solution of a Rubik's Cube, a 3D combination puzzle invented by Ernő Rubik in 1974. This project analyzes most famous solving algorithms like Thistlethwaite's, Kociemba's, Korf's, and Tomas Rokicki's based on time & space complexities.
 
-<a href="https://ardrashop.com" target="_blank" style="text-decoration: none;">
-    <h2>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill="#7d8590" d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
-        ArdraShop | E-Commerce for Artists
-    </h2>
-</a>
+## [![img](public/assets/link.png) ArdraShop | E-Commerce for Artists ](https://ardrashop.com)
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-3B71CA?logo=javascript&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/CSS%2FSCSS%2FSAAS-3B71CA?logoColor=FBFBFB) &nbsp;
@@ -139,12 +114,7 @@ Exploring the solution of a Rubik's Cube, a 3D combination puzzle invented by Er
 
 ArdraShop: Empowering Indian artisans! This low cos tresponsive e-commerce website made on MVC model enables skilled handicraft makers to sell their products nationwide, preserving traditional Indian art forms and supporting local artists.
 
-<div>
-    <h2>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill="#dc3545" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg> 
-        Parko | Automated Parking System
-    </h2>
-</div>
+## ![img](public/assets/no-repo.png) Parko | Automated Parking System
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-3B71CA?logo=C%2B%2B&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/HTML-3B71CA?logoColor=FBFBFB) &nbsp;
@@ -156,12 +126,7 @@ ArdraShop: Empowering Indian artisans! This low cos tresponsive e-commerce websi
 
 Parko is an RFID-based fully automatics car parking system with a mobile app for online payment and dynamic parking fees. It automates the parking process and optimizes space usage, providing convenience to users and improving parking management.
 
-<div>
-    <h2>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill="#dc3545" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg> 
-        KhetBazar | E-Commerce for Farmers
-    </h2>
-</div>
+## ![img](public/assets/no-repo.png) KhetBazar | E-Commerce for Farmers
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-3B71CA?logo=C%2B%2B&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/HTML-3B71CA?logoColor=FBFBFB) &nbsp;
