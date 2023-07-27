@@ -82,7 +82,7 @@ Baymax is a multilingual medical ecosystem capable of diagnosing diseases remote
 
 Universal communication solution for bridging gaps among blind, deaf, mute & normal populations. App converts sign language, voice, braille & text for seamless interaction between users. Uses computer vision, DNN & wireless hardware for recognition.
 
-## [![img](public/assets/repo.png) AI-Based Solar Panel Cleaning System ](https://github.com/AvGeekGupta/Solar-panel-maintenance-system)
+## [![img](public/assets/repo.png) AI-Based Solar Panel Cleaning System ](https://github.com/AvGeekGupta/AI-Based-Solar-Panel-Cleaning-System)
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-3B71CA?logo=C%2B%2B&logoColor=FBFBFB) &nbsp;
 ![Static Badge](https://img.shields.io/badge/Python-3B71CA?logo=python&logoColor=FBFBFB) &nbsp;
