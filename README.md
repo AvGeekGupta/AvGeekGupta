@@ -114,6 +114,16 @@ Exploring the solution of a Rubik's Cube, a 3D combination puzzle invented by Er
 
 ArdraShop: Empowering Indian artisans! This low cos tresponsive e-commerce website made on MVC model enables skilled handicraft makers to sell their products nationwide, preserving traditional Indian art forms and supporting local artists.
 
+## [![img](public/assets/link.png) Digilex.biz | Product page  ](https://digilex.biz)
+
+![Static Badge](https://img.shields.io/badge/JavaScript-3B71CA?logo=javascript&logoColor=FBFBFB) &nbsp;
+![Static Badge](https://img.shields.io/badge/CSS%2FSCSS%2FSAAS-3B71CA?logoColor=FBFBFB) &nbsp;
+![Static Badge](https://img.shields.io/badge/ReactJS-14A44D?logo=react&logoColor=FBFBFB) &nbsp;
+![Static Badge](https://img.shields.io/badge/Bootstrap-DC4C64?logo=Bootstrap&logoColor=FBFBFB) &nbsp;
+![Static Badge](https://img.shields.io/badge/Firebase-E4A11B?logo=Firebase&logoColor=FBFBFB) &nbsp;
+
+Digilex.biz is a responsive product page made on MVC model. It enables users to view and buy product online. It is a fully functional with customer support and payment gateway. It is made using ReactJS and Firebase.
+
 ## ![img](public/assets/no-repo.png) Parko | Automated Parking System
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-3B71CA?logo=C%2B%2B&logoColor=FBFBFB) &nbsp;
